@@ -1,9 +1,9 @@
 $(document).ready(function(){
   
-    $("#myshidebutton").click(function(){        
+    $("#myshidebutton").click( ()=>{        
         $('h1').hide();        
     });
-    $("#myshowbutton").click(function(){        
+    $("#myshowbutton").click( ()=>{        
         $('h1').show();        
     });
 });
