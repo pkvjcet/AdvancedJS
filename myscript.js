@@ -1,6 +1,16 @@
 $(document).ready(function(){
+    $('p').click(function(){
+        $(this).hide();
+    });
     $("#mysubmitbutton").click(function(){
-        console.log("button clicked");
+        var empid=$("#empid").val();
+        var empname=$("#empname").val();
+        var empaddress=$("#empaddress").val();
+        var empmobile=$("#empmobile").val();
+        var emempsalary=$("#empsalary").val();
+        var empdesignation=$("#empdesignation").val();
+
+        console.log(empid+empname+empaddress+empmobile+emempsalary+empdesignation);
     });
 });
 /*function readValues()
