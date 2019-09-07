@@ -1,0 +1,38 @@
+[
+    {
+        "name":"Rajesh",
+        "age":23,
+        "dob":"21/9/2018",
+        "college":"ASIET"
+    },
+    {
+        "name":"Tom",
+        "age":25,
+        "dob":"26/9/2008",
+        "college":"VJCET"
+    },
+    {
+        "name":"Manu",
+        "age":32,
+        "dob":"1/10/2010",
+        "college":"RASET"
+    },
+    {
+        "name":"Thomas",
+        "age":30,
+        "dob":"12/5/2002",
+        "college":"RCET"
+    },
+    {
+        "name":"Raju",
+        "age":15,
+        "dob":"26/6/2018",
+        "college":"JCET"
+    },
+    {
+        "name":"Raju New",
+        "age":15,
+        "dob":"26/6/2018",
+        "college":"JCET"
+    }
+]
